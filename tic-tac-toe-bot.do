@@ -1,6 +1,6 @@
 vlib work
 
-vlog testTacToe.v
+vlog tic-tac-toe-bot.v
 
 vsim TicTacToe
 
